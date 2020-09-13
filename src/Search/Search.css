@@ -1,0 +1,21 @@
+.searchDates {
+    position: absolute;
+    top: 35px;
+    left: 25%;
+    width: 100vw;
+}
+
+.searchDates > Button {
+   position: absolute;
+   left: 0;
+   top: 330px;
+   text-transform: inherit !important;
+   background-color: #1592E6;
+   color: white;
+   width: 579px; 
+}
+
+.searchDates > Button:hover {
+    background-color: #C7353D;
+    color: #1592E6;
+}
